@@ -13,13 +13,13 @@ Over [a year ago](https://tannermarino.com/2020/bisexual-pride-flag-emoji-propos
 ## How you can help
 
 ![The Bi Flag, according to Unicode](images/biflag-3.png)
-![The Bi Flag, according to Unicode](images/biflag-4.png)
 
 - Share the images on this page with your friends and on social media with #BiFlagEmoji
 - Use our filters ([Insta](https://www.instagram.com/ar/827309184482321/)/[FB](https://www.facebook.com/fbcameraeffects/tryit/827309184482321/)) to promote #BiFlagEmoji on your story
 - Sign the [petition](https://change.org/biflagemoji)!
 - [Sign up](https://forms.gle/Tu7iHNTucw6rH4Tq6) to be updated on our progress or to help us with this campaign!
 
+![The Bi Flag, according to Unicode](images/biflag-4.png)
 ## What's next?
 
 - In April, we will begin our campaign for the #AceFlagEmoji
