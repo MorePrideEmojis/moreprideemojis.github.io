@@ -26,4 +26,18 @@ The goal of Unicode is define a UNIversal enCODing for text on computers.  That 
 
 ## The Origin of Emoji
 
+😀 wasn't always 128512.  Unicode was originally focused on text and punctuation characters.  Along the way, they added a few pictographs and symbols, like arrows and hourglasses and chess pieces, but they were very limited.  If you wanted more expressive characters, you had to use fonts like Wingdings.  If you didn't have Wingdings installed, or your application couldn't display in different fonts, my "☺" would become a "J" on your side.  And, of course, there were multiple Wingdings-like fonts out there, so you'd have to know if I meant Wingdings or Webdings 2 or Dingbats.
 
+So we're back at the electronic Tower of Babel again!  And like with all the other times, diverging systems demanded standardization to avoid confusion and complication.  Unicode initially resisted taking it on, but eventually faced enough pressure from the industry do something about it.  Emoji were the result.  The first set of emoji were largely based around the pictograms used by Japanese cell phone providers.
+
+Like with letters, emojis are merely numbers to a computer.  Some of them, like 🏳‍🌈, are sets of numbers.  For 🏳‍🌈, it's the set of 127987 and 127752, which are the numbers for 🏳 and 🌈.  Whether it's a single number or multiple, Unicode is the one that controls which numbers mean what.
+
+## Which Brings Us To Now
+
+Unicode controls the numbers, so they get to decide what becomes an emoji and what doesn't.  In order for a new emoji to be created, it has to go through an approval process.  That process starts with a proposal.  The proposal process is public, so anyone can submit one.  You don't have to be a big corporation or have connections inside Unicode.  The approval process is rather strict, somewhat arbitrary, and mostly opaque.
+
+In 2020, proposals were made to add the bi and ace flags as emoji.  Unicode rejected both proposals.  The individuals who submitted these proposals are now both working on the #MorePrideEmojis effort.  We're planning to re-submit our proposals with additional pride flags this year.
+
+Currently, it's possible for individual services to add their own unofficial emoji.  We've seen services like Skype and Twitch each add a series of pride flags, and people using Discord or Slack can add their own custom images.  But what works on Skype won't translate to what's on Slack, and none of these will work on Twitter or Facebook or a group text.
+
+Hmmm...  Something that works one place, but doesn't work somewhere else, leading to inconsistency and confusion...?  Where have I heard that before?  _Is that a tower I see on the horizon?_
