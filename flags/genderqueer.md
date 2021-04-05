@@ -1,1 +1,1 @@
-{% include flagbase.html flagname="Genderqueer" flagnameshort="Genderqueer" %}
+{% include flagbase.html flagname="Genderqueer" flagnameshort="Genderqueer" flagemojis="☮🕖🌵" %}

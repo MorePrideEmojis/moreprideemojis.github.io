@@ -1,1 +1,1 @@
-{% include flagbase.html flagname="Bisexual" flagnameshort="Bi" %}
+{% include flagbase.html flagname="Bisexual" flagnameshort="Bi" flagemojis="☎🧰🎵🐳🌊" %}
