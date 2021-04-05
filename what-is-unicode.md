@@ -1,3 +1,7 @@
+---
+layout: default
+title: What is Unicode?
+---
 # What is Unicode?
 
 What is Unicode and why is the #MorePrideEmojis campaign focusing on them?  The Unicode Consortium is a non-profit group that essentially "owns" emojis.  They keep the official list of emojis and act as the gatekeepers for new emojis.  A lot of people mistakenly think that Apple and Google are responsible for creating emojis, but they all rely on what Unicode says.
