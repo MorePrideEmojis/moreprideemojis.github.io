@@ -1,1 +1,12 @@
-theme: jekyll-theme-tactile
+title: More Pride Emojis
+email: 
+description: >- 
+  Information about the effort to propose more pride flag emojis.
+baseurl: ""
+url: "https://moreprideemojis.com"
+twitter_username: moreprideemojis
+
+# Build settings
+theme: minima
+#plugins:
+#  - jekyll-feed

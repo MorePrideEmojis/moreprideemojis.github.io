@@ -1,0 +1,1 @@
+{% include flagbase.html flagname="Aromantic" flagnameshort="Aro" flagemojis="🌲🐸⚪🌪🖤" %}
