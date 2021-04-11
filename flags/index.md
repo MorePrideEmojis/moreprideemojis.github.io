@@ -15,17 +15,17 @@ We shouldn't be forced to settle for these half-measures.  We need more pride em
 {%- assign campaign_paths = site.pages | map: "path" -%}
 	
 {%- for path in campaign_paths -%}
-  {%- if  path contains "flags/" -%}
+  {%- if path contains "flags/" -%}
 	{%- unless path contains "index" -%}
 	  {%- assign my_page = site.pages | where: "path", path | first -%}
 
-	  <p>
-        <a class="page-link" href="{{ my_page.url | relative_url }}">
-	      <h3>{{ my_page.title | escape }}</h3>
-	      <img src="{{ my_page.image }}" alt={{my_page.title | escape }}/>
-		</a>
-      <p>
-	  <hr/>
+        <p>
+          <a class="page-link" href="{{ my_page.url | relative_url }}">
+            <h3>{{ my_page.title | escape }}</h3>
+            <img src="{{ my_page.image }}" alt={{my_page.title | escape }}/>
+          </a>
+        <p>
+        <hr/>
 
     {%- endunless -%}
   {%- endif -%}
