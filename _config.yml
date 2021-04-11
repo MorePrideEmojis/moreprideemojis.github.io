@@ -10,3 +10,7 @@ twitter_username: moreprideemojis
 theme: minima
 #plugins:
 #  - jekyll-feed
+
+header_pages:
+  - README.md
+  - what-is-unicode.md
