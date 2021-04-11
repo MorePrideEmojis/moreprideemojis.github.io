@@ -16,7 +16,7 @@ We shouldn't be forced to settle for these half-measures.  We need more pride em
 	
 {%- for path in campaign_paths -%}
   {%- if  path contains "flags/" -%}
-	{%- unless path contains "according-to-unicode" -%}
+	{%- unless path contains "index" -%}
 	  {%- assign my_page = site.pages | where: "path", path | first -%}
 
 	  <p>
