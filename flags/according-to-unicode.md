@@ -18,7 +18,7 @@ We shouldn't be forced to settle for these half-measures.  We need more pride em
   {%- if  path contains "flags/" -%}
 	{%- unless path contains "according-to-unicode" -%}
 	  {%- assign my_page = site.pages | where: "path", path | first -%}
-	  {%- if my_page.title -%}
+
 	  <p>
         <a class="page-link" href="{{ my_page.url | relative_url }}">
 	      <h3>{{ my_page.title | escape }}</h3>
@@ -26,7 +26,7 @@ We shouldn't be forced to settle for these half-measures.  We need more pride em
 		</a>
       <p>
 	  <hr/>
-      {%- endif -%}
+
     {%- endunless -%}
   {%- endif -%}
 {%- endfor -%}
