@@ -1,5 +1,3 @@
-# #MorePrideEmojis
-
 As it stands, pride emoji are severely lacking. There are only two options: 🏳️‍🌈 and 🏳️‍⚧️. This is not inclusive enough to represent the LGBTQIA+ community, a diverse peoople across the world. As such, we have started a campaign for #BiFlagEmoji and #AceFlagEmoji.
 
 ![Pride Flags, according to Unicode](images/biflag-1.png)
