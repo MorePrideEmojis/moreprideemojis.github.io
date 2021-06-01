@@ -2,6 +2,16 @@ As it stands, pride emoji are severely lacking. There are only two options: 🏳
 
 ![Pride Flags, according to Unicode](images/AccordingToUnicode/Large/FlagsAccordingToUnicode-Compare.png)
 
+Several new emoji are added each year. Pride flags are routinely rejected. The transgender pride flag was approved after the fourth attempt. The bisexual and asexual pride emoji proposals were both rejected. Unicode can do better.
+
+![There are 29 different clock emoji and only 2 pride flag emoji](images/AccordingToUnicode/Large/FlagsAccordingToUnicode-25.png)
+
+Clocks are free to express themselves, but people aren't. 
+
+![Comparing existing emoji to pride flags](images/AccordingToUnicode/Large/FlagsAccordingToUnicode-68.png)
+
+Paperclips have better representation than people's sexualities. This needs to change.
+
 ## [#AceFlagEmoji](flags/asexual.html): International Asexuality Day
 
 ![The Ace Flag, according to Unicode](images/AccordingToUnicode/Medium/FlagsAccordingToUnicode-AceSxS.png)
