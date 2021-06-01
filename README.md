@@ -16,6 +16,7 @@ Paperclips have better representation than people's sexualities. This needs to c
 - Share the images on this page with your friends and on social media with #MorePrideEmojis
 - Sign the [petition](https://www.change.org/p/pride-flag-emojis)!
 - [Sign up](https://forms.gle/Tu7iHNTucw6rH4Tq6) to be updated on our progress or to help us with this campaign!
+- Folow us on [Twitter](https://twitter.com/moreprideemojis) and [Instagram](https://www.instagram.com/moreprideemojis/) 
 
 ## [#AceFlagEmoji](flags/asexual.html): International Asexuality Day
 
