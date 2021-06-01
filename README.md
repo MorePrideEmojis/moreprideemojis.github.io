@@ -31,7 +31,3 @@ This April 6, 2021 is International Asexuality Day. How will you celebrate? It w
 Over [a year ago](https://tannermarino.com/2020/bisexual-pride-flag-emoji-proposal/), our campaign proposal to Unicode was submitted and promptly rejected, without a reason. Who's Unicode, you ask? The Unicode Consortium sets the standard for how computers encode text, so that different systems and devices can work together. Their role also includes approving emoji proposals. Unfortunately, all requests for new emoji must go through them - and in cases like ours, sometimes they reject sensible proposals without a reason.
 - Use our filters ([Insta](https://www.instagram.com/ar/827309184482321/)/[FB](https://www.facebook.com/fbcameraeffects/tryit/827309184482321/)) to promote #BiFlagEmoji on your story
 - Sign the [petition](https://change.org/biflagemoji)!
-
-## What's next?
-
-- More to come. [Sign up](https://forms.gle/Tu7iHNTucw6rH4Tq6) to stay updated!
