@@ -1,5 +1,11 @@
 As it stands, pride emoji are severely lacking. There are only two options: 🏳️‍🌈 and 🏳️‍⚧️. This is not inclusive enough to represent the LGBTQIA+ community, a diverse people across the world. As such, we have started a campaign for #BiFlagEmoji and #AceFlagEmoji. Read our [press release](files/press-release.pdf).
 
+## How you can help
+- Share the images on this page with your friends and on social media with #MorePrideEmojis
+- Sign the [petition](https://www.change.org/p/pride-flag-emojis)!
+- [Sign up](https://forms.gle/Tu7iHNTucw6rH4Tq6) to be updated on our progress or to help us with this campaign!
+- Folow us on [Twitter](https://twitter.com/moreprideemojis) and [Instagram](https://www.instagram.com/moreprideemojis/) 
+
 ![Pride Flags, according to Unicode](images/AccordingToUnicode/Large/FlagsAccordingToUnicode-Compare.png)
 
 Several new emoji are added each year. Pride flags are routinely rejected. The transgender pride flag was approved after the fourth attempt. The bisexual and asexual pride emoji proposals were both rejected. Unicode can do better.
@@ -11,12 +17,6 @@ Clocks are free to express themselves, but people aren't.
 ![Comparing existing emoji to pride flags](images/AccordingToUnicode/Large/FlagsAccordingToUnicode-68.png)
 
 Paperclips have better representation than people's sexualities. This needs to change.
-
-## How you can help
-- Share the images on this page with your friends and on social media with #MorePrideEmojis
-- Sign the [petition](https://www.change.org/p/pride-flag-emojis)!
-- [Sign up](https://forms.gle/Tu7iHNTucw6rH4Tq6) to be updated on our progress or to help us with this campaign!
-- Folow us on [Twitter](https://twitter.com/moreprideemojis) and [Instagram](https://www.instagram.com/moreprideemojis/) 
 
 ## [#AceFlagEmoji](flags/asexual.html): International Asexuality Day
 
